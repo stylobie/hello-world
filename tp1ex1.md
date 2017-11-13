@@ -1,14 +1,19 @@
 Exercice 1
 ==========
-1. une chaine
-
-1. un entier
-
-__asta e important__ asta nu
+1. Le type approprié pour une variable qui contient le prénom de l'utilisateur est :
 ```python
-print("entrez votre prénom")
-prenom = input()
-print("entrez votre nom")
-nom = input()
-print("vos initiales sont\n" + prenom.upper()[0] + "." + nom.upper()[0])
+str()
+```
+2. Le type approprié pour une variable qui sert de compteur dans une boucle for est :
+```python
+int()
+```
+
+3. Le type approprié pour une variable qui sert à calculer le nombre d'atomes dans l'Univers est :
+```python
+float()
+```
+4. Le type approprié pour une variable qui permet de traiter différemment un nombre selon qu'il est pair ou impair est : 
+```python
+bool()
 ```
