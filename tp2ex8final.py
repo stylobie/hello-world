@@ -17,3 +17,5 @@ for i in range(0, 9):
 #et donc le numéro est pas attribué.
 if not findIt:  
     print("non attribué")
+#Pour le numéro 01 on trouve A
+#Pour le numéro 42 on trouve "non attribué"
